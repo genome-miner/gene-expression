@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://api.ncbi.nlm.nih.gov/datasets/v2/genome/download?filename=gene-annotation.zip&ncbi_phid=1D33EB6534C6E1C5000053264446229C.1.m_3.023
