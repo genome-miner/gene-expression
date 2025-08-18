@@ -29,6 +29,7 @@ This repository contains an RNA-seq analysis pipeline implemented on Linux for a
 8. iDEP-result/  # Pre-process and heatmap
 9. Script/       # Pipeline script
 10. Documents/   # Flowchart and images
+**Note:** Somes files have been compressed using the **gzip** command to minimize their size.
 
 # Pipeline Steps (Summary)
 1. Download SRA data
